@@ -28,3 +28,12 @@
 
 ### 마크업
 * <a href="https://www.pixeltrue.com/mockup-generator">mockup generator<a>
+ 
+ ### 마크다운
+ * <a href="https://goddaehee.tistory.com/307">마크다운 문법<a>
+### 마크다운 에디터
+* <a href="https://sergeswin.com/1241/">마크다운 에디터 추천<a>
+
+### GitBook
+* <a href="https://www.gitbook.com/">GitBook 생성<a>
+* <a href="https://velog.io/@otnaj/%EB%82%98%EC%9D%98-%EC%A7%80%EC%8B%9D-%EA%B3%B5%EC%9C%A0">GitBook 작성법<a>
